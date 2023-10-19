@@ -1,0 +1,3 @@
+class Bumaatooyin extends Cosmetics{
+    
+}

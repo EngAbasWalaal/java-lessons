@@ -1,0 +1,3 @@
+class Shaambo extends Cosmetics{
+    
+}
